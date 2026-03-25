@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Birarvinder</h1>
-<p>A passionate cloud enthusiast from Calgary, eager to learn and build in the exciting world of cloud computing.</p>
+<p>A passionate cloud enthusiast from Nagpur, eager to learn and build in the exciting world of cloud computing.</p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Birarvindersingh&label=Profile%20views&color=0e75b6&style=flat" alt="Birarvindersingh" /></p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
